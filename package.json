@@ -1,0 +1,11 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "spa con js vanilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Enrique Ramírez Flores",
+  "license": "ISC"
+}
